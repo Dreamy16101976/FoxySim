@@ -8,7 +8,7 @@ Simulator running on address: http://foxylab.com:7777<br/>
 Brief description: http://foxylab.com:7777/help<br/>
 Netlist example:<br/>
 <code>
-.AC 50<br/><br/>
+.AC 50\
 V1 1 0 100 0<br/>
 PW1 1 2 1 0<br/>
 PQ1 2 3 2 0<br/>
