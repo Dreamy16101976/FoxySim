@@ -7,6 +7,7 @@ This software is licensed under the Creative Commons Attribution-NonCommercial-S
 Simulator running on address: http://foxylab.com:7777<br/>
 Brief description: http://foxylab.com:7777/help<br/>
 Example:<br/>
+[circuit](https://acdc.foxylab.com/sites/default/files/foxysim_rlc_wqf_din.png)<br/>
 <i>netlist</i>:
 ```
 .AC 50
@@ -34,6 +35,7 @@ Copyright (C) 2017-2018 Алексей "FoxyLab" Воронин<br/>
 Краткое описание: http://foxylab.com:7777/help<br/>
 Подробное описание: https://acdc.foxylab.com/foxysim<br/>
 Пример:<br/>
+[схема](https://acdc.foxylab.com/sites/default/files/foxysim_rlc_wqf_din.png)<br/>
 </i>список соединений</i>:<br/>
 ```
 .AC 50
