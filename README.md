@@ -47,4 +47,5 @@ R1 5 6 50
 L1 6 7 100m
 C1 7 0 80u
 .END
+```
 [результат](https://acdc.foxylab.com/sites/default/files/foxysim_rlc_wqf_res_ru.png)
