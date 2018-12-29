@@ -8,17 +8,17 @@ Simulator running on address: http://foxylab.com:7777<br/>
 Brief description: http://foxylab.com:7777/help<br/>
 Netlist example:<br/>
 ```
-.AC 50\
-V1 1 0 100 0<br/>
-PW1 1 2 1 0<br/>
-PQ1 2 3 2 0<br/>
-PF1 3 4 3 0<br/>
-PA1 4 5<br/>
-PV1 1 0<br/>
-R1 5 6 50<br/>
-L1 6 7 100m<br/>
-C1 7 0 80u<br/>
-.END<br/>  
+.AC 50
+V1 1 0 100 0
+PW1 1 2 1 0
+PQ1 2 3 2 0
+PF1 3 4 3 0
+PA1 4 5
+PV1 1 0
+R1 5 6 50
+L1 6 7 100m
+C1 7 0 80u
+.END 
 ```
 
 <i>FoxySim</i> - онлайн-симулятор линейных электрических цепей постоянного и синусоидального тока<br/>
@@ -31,16 +31,16 @@ Copyright (C) 2017-2018 Алексей "FoxyLab" Воронин<br/>
 Краткое описание: http://foxylab.com:7777/help<br/>
 Подробное описание: https://acdc.foxylab.com/foxysim<br/>
 Пример списка соединений:<br/>
-<code>
-.AC 50<br/>
-V1 1 0 100 0<br/>
-PW1 1 2 1 0<br/>
-PQ1 2 3 2 0<br/>
-PF1 3 4 3 0<br/>
-PA1 4 5<br/>
-PV1 1 0<br/>
-R1 5 6 50<br/>
-L1 6 7 100m<br/>
-C1 7 0 80u<br/>
-.END<br/>
+```
+.AC 50
+V1 1 0 100 0
+PW1 1 2 1 0
+PQ1 2 3 2 0
+PF1 3 4 3 0
+PA1 4 5
+PV1 1 0
+R1 5 6 50
+L1 6 7 100m
+C1 7 0 80u
+.END
 </code>
