@@ -6,6 +6,7 @@ Website:  https://acdc.foxylab.com<br/>
 This software is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0) License.<br/><br/>
 Simulator running on address: http://foxylab.com:7777<br/>
 Brief description: http://foxylab.com:7777/help<br/>
+<img href="https://acdc.foxylab.com/sites/default/files/foxysim_rlc_wqf_res_en.png"></img>
 Netlist example:<br/>
 ```
 .AC 50
