@@ -7,7 +7,7 @@ This software is licensed under the Creative Commons Attribution-NonCommercial-S
 Simulator running on address: http://foxylab.com:7777<br/>
 Brief description: http://foxylab.com:7777/help<br/>
 Netlist example:<br/>
-<code>
+```
 .AC 50\
 V1 1 0 100 0<br/>
 PW1 1 2 1 0<br/>
@@ -19,7 +19,7 @@ R1 5 6 50<br/>
 L1 6 7 100m<br/>
 C1 7 0 80u<br/>
 .END<br/>  
-</code>
+```
 
 <i>FoxySim</i> - онлайн-симулятор линейных электрических цепей постоянного и синусоидального тока<br/>
 Версия 1.0<br/>
