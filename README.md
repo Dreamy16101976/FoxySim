@@ -7,7 +7,7 @@ This software is licensed under the Creative Commons Attribution-NonCommercial-S
 Simulator running on address: http://foxylab.com:7777<br/>
 Brief description: http://foxylab.com:7777/help<br/>
 Example:<br/>
-netlist:
+<i>netlist</i>:
 ```
 .AC 50
 V1 1 0 100 0
@@ -33,7 +33,8 @@ Copyright (C) 2017-2018 Алексей "FoxyLab" Воронин<br/>
 Симулятор доступен по адресу: http://foxylab.com:7777<br/>
 Краткое описание: http://foxylab.com:7777/help<br/>
 Подробное описание: https://acdc.foxylab.com/foxysim<br/>
-Пример списка соединений:<br/>
+Пример:<br/>
+</i>список соединений</i>:<br/>
 ```
 .AC 50
 V1 1 0 100 0
@@ -46,3 +47,4 @@ R1 5 6 50
 L1 6 7 100m
 C1 7 0 80u
 .END
+[результат](https://acdc.foxylab.com/sites/default/files/foxysim_rlc_wqf_res_ru.png)
