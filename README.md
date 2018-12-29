@@ -6,8 +6,8 @@ Website:  https://acdc.foxylab.com<br/>
 This software is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0) License.<br/><br/>
 Simulator running on address: http://foxylab.com:7777<br/>
 Brief description: http://foxylab.com:7777/help<br/>
-<img href="https://acdc.foxylab.com/sites/default/files/foxysim_rlc_wqf_res_en.png"></img>
-Netlist example:<br/>
+Example:<br/>
+netlist:
 ```
 .AC 50
 V1 1 0 100 0
@@ -21,6 +21,8 @@ L1 6 7 100m
 C1 7 0 80u
 .END 
 ```
+[result](https://acdc.foxylab.com/sites/default/files/foxysim_rlc_wqf_res_en.png)
+
 
 <i>FoxySim</i> - онлайн-симулятор линейных электрических цепей постоянного и синусоидального тока<br/>
 Версия 1.0<br/>
