@@ -4,8 +4,9 @@ Copyright (C) 2017-2018 Alexey "FoxyLab" Voronin<br/>
 Email:    support@foxylab.com<br/>
 Website:  https://acdc.foxylab.com<br/>
 This software is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0) License.<br/><br/>
-Simulator running on address: http://foxylab.com:7777<br/>
-Brief description: http://foxylab.com:7777/help<br/><br/>
+Simulator running on address: http://sim.foxylab.com<br/>
+Brief description: http://sim.foxylab.com/help<br/>
+Hackaday.io: https://hackaday.io/project/167846-foxysim<br/><br/>
 <b>Example</b>:<br/>
 [circuit](https://acdc.foxylab.com/sites/default/files/foxysim_rlc_wqf_din.png)<br/>
 <i>netlist</i>:
@@ -31,9 +32,10 @@ Copyright (C) 2017-2018 Алексей "FoxyLab" Воронин<br/>
 Электронная почта:    support@foxylab.com<br/>
 Сайт:  https://acdc.foxylab.com<br/>
 Это программное обеспечение выпущено под лицензией Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0) License.<br/><br/>
-Симулятор доступен по адресу: http://foxylab.com:7777<br/>
-Краткое описание: http://foxylab.com:7777/help<br/>
+Симулятор доступен по адресу: http://sim.foxylab.com<br/>
+Краткое описание: http://sim.foxylab.com/help<br/>
 Подробное описание: https://acdc.foxylab.com/foxysim<br/>
+Hackaday.io: https://hackaday.io/project/167846-foxysim<br/><br/>
 <b>Пример</b>:<br/>
 [схема](https://acdc.foxylab.com/sites/default/files/foxysim_rlc_wqf_din.png)<br/>
 </i>список соединений</i>:<br/>
